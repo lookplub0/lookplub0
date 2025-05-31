@@ -6,7 +6,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 
 🌍  I'm based in BKK
 
-💡 📌 Currently working with & learning:  
+📌 Currently working with & learning:  
 **React.js,Vue.js, TypeScripts, Next.js, Node.js, Express**
 
 ### 🛠️ Skills
